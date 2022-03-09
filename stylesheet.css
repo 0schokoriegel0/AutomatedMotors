@@ -1,0 +1,155 @@
+#heading{
+    padding: 20% 7%;
+    background-color:gainsboro;
+    text-align: center;
+    position: relative;
+    z-index: -1;
+}
+
+#amcProfile{
+    background-color: gainsboro;
+}
+#boxes{
+    padding-top: 3%;
+    position:relative;
+    z-index:2;
+    padding-bottom: 7%;
+    padding: 7% 20%;
+}
+
+#qualifications{
+    text-align: center;
+}
+.qualifications{
+    padding-top:10%;
+}
+.footer{
+    font-size: 0.8rem;
+    padding: 1% 7% 5%;
+    text-align: center;
+}
+.sectors{
+    padding: 7% 7%;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+}
+.bcGainsboro{
+    background-color:gainsboro;
+}
+.navbar{
+    background-color: grey;
+}
+.navBar{
+   padding-left: 0%;
+   width: 100%;
+   padding-right: 0%;
+   position: fixed;
+   z-index: 1;
+   
+}
+.col-lg-6{
+    padding: 2%;
+    justify-content: center;
+    text-align: left;
+    
+    
+}
+.images{
+    width: 200px;
+}
+.sabs{
+    padding: 3% 3% 0% 3%;
+    
+}
+h1{
+    font-weight: 800;
+    font-size: 60px;
+    
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    margin: 0;
+}
+.boxes{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px 5px 5px 5px;
+    -webkit-box-shadow: 5px 5px 15px 5px grey; 
+    box-shadow: 5px 5px 15px 5px grey;
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+    padding: 1.5%; 
+    background-color: grey;
+}
+.boxes:hover{
+    cursor: pointer;
+    top: -15px;
+    border: 3px solid black;
+
+}
+.Profile{
+    text-align: center;
+    padding: 5% 2%;
+}
+.navbar-nav{
+    margin:auto;
+}
+
+.nav-link:hover{
+    color: black !important;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+i{
+    font-size: 5rem;
+}
+.powerPuls{
+    text-align: left;
+    padding-top: 5%;
+}
+.text{
+    padding-bottom: 2%;
+}
+#A{
+    font-weight:800;
+    font-size: 60px;
+}
+.sabsTableRowspan{
+    padding-right: 40px;
+}
+.sabsTable{
+    margin:auto;
+    padding-top: 20%;
+}
+.sabs{
+    padding-top: 6%;
+}
+.certificate:hover {
+   transform: scale(2.5);
+   border: 2px solid;
+   
+}
+.certificate{
+    transition: all 0.4s ease-in-out;
+    border: 1px solid;
+}
+.picture{
+    padding-top: 5%;
+}
+.overflow{
+    margin: -20%;
+    
+}
+.sectionSize{
+    padding-bottom: 300px;
+}
